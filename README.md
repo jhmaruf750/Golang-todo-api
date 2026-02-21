@@ -215,9 +215,8 @@ Authorization: Bearer YOUR_TOKEN
 
 ## 👨‍💻 Author
 
-**Jhmaruf750**
-
-Backend Developer (Golang Enthusiast)
+JH MaRuF
+RUET CSE'21
 
 ---
 
